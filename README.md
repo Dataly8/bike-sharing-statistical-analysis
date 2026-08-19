@@ -52,8 +52,8 @@ Python · pandas
 
 ## Context
 
-Deliverable for the *Mathematics for Data Processing* module of my Master's in Business Intelligence & Analytics. Notebook and write-up are in Spanish.
-
+Deliverable for the *Mathematics for Data Processing* module of my Master's in Business Intelligence & Analytics. 🎓 IEBS Business School
+Notebook and write-up are in Spanish.
 ________________________________________________________________________________________________________________________________________________________________
 
 ## Versión en español
